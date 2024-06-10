@@ -1,0 +1,303 @@
+{
+    "status": true,
+    "code": 200,
+    "message": "Main Menu Data",
+    "main_menu_data": [
+        {
+            "menu_id": 101,
+            "app_menu_id": 1,
+            "language_id": 1,
+            "menu_name": "घर",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/home-icon.svg",
+            "menu_alias": "home"
+        },
+        {
+            "menu_id": 103,
+            "app_menu_id": 3,
+            "language_id": 1,
+            "menu_name": "भाषा",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/language-icon.svg",
+            "menu_alias": "language"
+        },
+        {
+            "menu_id": 122,
+            "app_menu_id": 13,
+            "language_id": 1,
+            "menu_name": "फ़ॉन्ट आकार",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/font-icon.svg",
+            "menu_alias": "font-size"
+        },
+        {
+            "menu_id": 104,
+            "app_menu_id": 4,
+            "language_id": 1,
+            "menu_name": "ऑडियो",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/audio-icon.svg",
+            "menu_alias": "audio"
+        },
+        {
+            "menu_id": 110,
+            "app_menu_id": 9,
+            "language_id": 1,
+            "menu_name": "शिकायत / प्रतिक्रिया",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/complaints-icon.svg",
+            "menu_alias": "complaint-feedback"
+        },
+        {
+            "menu_id": 111,
+            "app_menu_id": 10,
+            "language_id": 1,
+            "menu_name": "अनुप्रयोग के बारे में",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/about-icon.svg",
+            "menu_alias": "about-application"
+        },
+        {
+            "menu_id": 146,
+            "app_menu_id": 15,
+            "language_id": 1,
+            "menu_name": "शेयर",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/share-icon.svg",
+            "menu_alias": "share"
+        },
+        {
+            "menu_id": 121,
+            "app_menu_id": 12,
+            "language_id": 1,
+            "menu_name": "सूचनाएं",
+            "view_type": 2,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/notification-icon.svg",
+            "menu_alias": "notifications"
+        },
+        {
+            "menu_id": 341,
+            "app_menu_id": 16,
+            "language_id": 1,
+            "menu_name": "मदद",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/help-icon.svg",
+            "menu_alias": "help"
+        },
+        {
+            "menu_id": 119,
+            "app_menu_id": 14,
+            "language_id": 1,
+            "menu_name": "लॉग आउट",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/logout-icon.svg",
+            "menu_alias": "logout"
+        }
+    ],
+
+    "bottom_menu_data": [
+        {
+            "menu_id": 237,
+            "app_menu_id": 1,
+            "language_id": 2,
+            "menu_name": "घर",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/1689143415_1.svg",
+            "menu_alias": "home"
+        },
+        {
+            "menu_id": 255,
+            "app_menu_id": 4,
+            "language_id": 2,
+            "menu_name": "सीरीयल नम्बर",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/1689143490_4.svg",
+            "menu_alias": "serial-no"
+        },
+        {
+            "menu_id": 261,
+            "app_menu_id": 5,
+            "language_id": 2,
+            "menu_name": "क्यूआर कोड",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/1689143527_5.svg",
+            "menu_alias": "qr-code"
+        },
+        {
+            "menu_id": 357,
+            "app_menu_id": 8,
+            "language_id": 2,
+            "menu_name": "सामाजिक मीडिया",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/social-media.svg",
+            "menu_alias": "social-media"
+        },
+        {
+            "menu_id": 349,
+            "app_menu_id": 7,
+            "language_id": 2,
+            "menu_name": "नक्शा",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/map-icon.svg",
+            "menu_alias": "map"
+        }
+    ],
+    "lang_data": [
+        {
+            "language_id": 2,
+            "language_short_name": "hi",
+            "language_name": "हिन्दी",
+            "is_default": 1,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-hi.mp3"
+        },
+        {
+            "language_id": 1,
+            "language_short_name": "en",
+            "language_name": "English",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi.mp3"
+        },
+        {
+            "language_id": 3,
+            "language_short_name": "Ta",
+            "language_name": "தமிழ்",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-ta.mp3"
+        },
+        {
+            "language_id": 4,
+            "language_short_name": "Te",
+            "language_name": "తెలుగు",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-te.mp3"
+        },
+        {
+            "language_id": 5,
+            "language_short_name": "Ka",
+            "language_name": "ಕನ್ನಡ",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-ka.mp3"
+        },
+        {
+            "language_id": 6,
+            "language_short_name": "Ma",
+            "language_name": "മലയാളം",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-mal.mp3"
+        },
+        {
+            "language_id": 7,
+            "language_short_name": "Mar",
+            "language_name": "मराठी",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-mar.mp3"
+        }
+    ],
+    "audio_video_lang": [
+        {
+            "language_id": "1",
+            "language_name": "English",
+            "language_short_name": "en"
+        },
+        {
+            "language_id": "2",
+            "language_name": "हिन्दी",
+            "language_short_name": "hi"
+        },
+        {
+            "language_id": "3",
+            "language_name": "தமிழ்",
+            "language_short_name": "Ta"
+        },
+        {
+            "language_id": "4",
+            "language_name": "తెలుగు",
+            "language_short_name": "Te"
+        },
+        {
+            "language_id": "5",
+            "language_name": "ಕನ್ನಡ",
+            "language_short_name": "Ka"
+        },
+        {
+            "language_id": "6",
+            "language_name": "മലയാളം",
+            "language_short_name": "Ma"
+        },
+        {
+            "language_id": "7",
+            "language_name": "मराठी",
+            "language_short_name": "Mar"
+        }
+    ],
+    "notification_data": [
+        {
+            "label": "Audio",
+            "type": "audio"
+        }
+    ],
+    "font_mode_data": [
+        {
+            "list_id": "font_mode",
+            "option_id": 1,
+            "title": "छोटा",
+            "short_name": "small",
+            "language_id": 2
+        },
+        {
+            "list_id": "font_mode",
+            "option_id": 2,
+            "title": "साधारण",
+            "short_name": "normal",
+            "language_id": 2
+        },
+        {
+            "list_id": "font_mode",
+            "option_id": 3,
+            "title": "विशाल",
+            "short_name": "large",
+            "language_id": 2
+        }
+    ],
+    "label_data": {
+        "welcome_to": "आपका स्वागत है",
+        "sign_out": "साइन आउट",
+        "logout_msg": "क्या आप अपने खाते से लॉगआउट करना चाहते हैं?",
+        "cancel": "रद्द करना",
+        "logout": "लॉग आउट",
+        "select_language": "भाषा का चयन करें",
+        "select_lang_desc": "अपनी पसंदीदा सामग्री और ऑडियो भाषा चुनें",
+        "feedback": "प्रतिपुष्टि",
+        "submit": "प्रस्तुत करना",
+        "or": "या",
+        "near_by": "पास ही",
+        "select_near_by": "खोजने के लिए आस-पास के स्थानों का चयन करें",
+        "from": "से",
+        "to": "प्रति",
+        "current_location": "वर्तमान स्थान",
+        "get_direction": "दिशा प्राप्त करें",
+        "delete": "मिटाना",
+        "search": "खोज",
+        "verify": "सत्यापित करना",
+        "home": "घर",
+        "content_language": "सामग्री भाषा",
+        "more": "अधिक",
+        "less": "कमी",
+        "short_audio": "लघु ऑडियो",
+        "long_audio": "लंबा ऑडियो",
+        "invalid_barcode": "अमान्य बारकोड",
+        "invalid_serial_code": "अमान्य सीरियल कोड",
+        "no_data": "कोई डेटा नहीं है",
+        "guest_user": "अतिथि उपयेागकर्ता",
+        "scanqr-code": "धाम जानने के लिए स्कैन करें",
+        "dialpad": "सभी मंदिर",
+        "eula_content":""
+    },
+    "latitude": "25.3109",
+    "longitude": "83.0107",
+    "facebook_url": "https://www.facebook.com/ShriKashiVishwanathJi/",
+    "twitter_url": "https://twitter.com/ShriVishwanath",
+    "youtube_url": "https://www.youtube.com/@ShreeKashiVishwanathMandir",
+    "instagram_url": "https://www.instagram.com/shrikashivishwanath/",
+    "help-desk": "+91 6393 131 608"
+}

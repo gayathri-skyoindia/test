@@ -1,0 +1,257 @@
+{
+    "status": true,
+    "code": 200,
+    "message": "Main Menu Data",
+    "main_menu_data": [
+        {
+            "menu_id": 101,
+            "app_menu_id": 1,
+            "language_id": 1,
+            "menu_name": "Home",
+            "view_type": 1,
+            "app_menu_icon": "assets/images/svg/home.svg",
+            "menu_alias": "home"
+        },
+        {
+            "menu_id": 103,
+            "app_menu_id": 3,
+            "language_id": 1,
+            "menu_name": "Language",
+            "view_type": 1,
+            "app_menu_icon": "assets/images/svg/language.svg",
+            "menu_alias": "language"
+        },
+        {
+            "menu_id": 104,
+            "app_menu_id": 3,
+            "language_id": 1,
+            "menu_name": "Blogs",
+            "view_type": 1,
+            "app_menu_icon": "assets/images/svg/edit.svg",
+            "menu_alias": "language"
+        },
+        {
+            "menu_id": 110,
+            "app_menu_id": 9,
+            "language_id": 1,
+            "menu_name": "Complaint / Feedback",
+            "view_type": 1,
+            "app_menu_icon": "assets/images/svg/message.svg",
+            "menu_alias": "complaint-feedback"
+        },
+
+        {
+            "menu_id": 146,
+            "app_menu_id": 15,
+            "language_id": 1,
+            "menu_name": "Share",
+            "view_type": 1,
+            "app_menu_icon": "assets/images/svg/share.svg",
+            "menu_alias": "share"
+        },
+
+        {
+            "menu_id": 341,
+            "app_menu_id": 16,
+            "language_id": 1,
+            "menu_name": "Privacy Policy",
+            "view_type": 1,
+            "app_menu_icon": "assets/images/svg/policy.svg",
+            "menu_alias": "help"
+        },
+        {
+            "menu_id": 119,
+            "app_menu_id": 14,
+            "language_id": 1,
+            "menu_name": "About Museum",
+            "view_type": 1,
+            "app_menu_icon": "assets/images/svg/about.svg",
+            "menu_alias": "logout"
+        },
+        {
+            "menu_id": 119,
+            "app_menu_id": 14,
+            "language_id": 1,
+            "menu_name": "Logout",
+            "view_type": 1,
+            "app_menu_icon": "assets/images/svg/logout.svg",
+            "menu_alias": "logout"
+        }
+    ],
+    "bottom_menu_data": [
+        {
+            "menu_id": 113,
+            "app_menu_id": 1,
+            "language_id": 1,
+            "menu_name": "Home",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/1689143415_1.svg",
+            "menu_alias": "home"
+        },
+        {
+            "menu_id": 116,
+            "app_menu_id": 4,
+            "language_id": 1,
+            "menu_name": "Serial No",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/1689143490_4.svg",
+            "menu_alias": "serial-no"
+        },
+        {
+            "menu_id": 117,
+            "app_menu_id": 5,
+            "language_id": 1,
+            "menu_name": "Qr Code",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/1689143527_5.svg",
+            "menu_alias": "qr-code"
+        },
+        {
+            "menu_id": 356,
+            "app_menu_id": 8,
+            "language_id": 1,
+            "menu_name": "Social Media",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/social-media.svg",
+            "menu_alias": "social-media"
+        },
+        {
+            "menu_id": 348,
+            "app_menu_id": 7,
+            "language_id": 1,
+            "menu_name": "Map",
+            "view_type": 1,
+            "app_menu_icon": "https://varanasi.dwgroup.in/assets/menu/icon/map-icon.svg",
+            "menu_alias": "map"
+        }
+    ],
+    "lang_data": [
+        {
+            "language_id": 2,
+            "language_short_name": "hi",
+            "language_name": "हिन्दी",
+            "is_default": 1,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-hi.mp3"
+        },
+        {
+            "language_id": 1,
+            "language_short_name": "en",
+            "language_name": "English",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi.mp3"
+        },
+        {
+            "language_id": 3,
+            "language_short_name": "Ta",
+            "language_name": "தமிழ்",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-ta.mp3"
+        },
+        {
+            "language_id": 4,
+            "language_short_name": "Te",
+            "language_name": "తెలుగు",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-te.mp3"
+        },
+        {
+            "language_id": 5,
+            "language_short_name": "Ka",
+            "language_name": "ಕನ್ನಡ",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-ka.mp3"
+        },
+        {
+            "language_id": 6,
+            "language_short_name": "Ma",
+            "language_name": "മലയാളം",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-mal.mp3"
+        },
+        {
+            "language_id": 7,
+            "language_short_name": "Mar",
+            "language_name": "मराठी",
+            "is_default": 0,
+            "welcome_sound": "https://varanasi.dwgroup.in/assets/welcome/welcome-to-kashi-mar.mp3"
+        }
+    ],
+    "audio_video_lang": [
+        {
+            "language_id": "1",
+            "language_name": "English",
+            "language_short_name": "en"
+        },
+        {
+            "language_id": "2",
+            "language_name": "हिन्दी",
+            "language_short_name": "hi"
+        }
+
+    ],
+    "notification_data": [
+        {
+            "label": "Audio",
+            "type": "audio"
+        }
+    ],
+    "font_mode_data": [
+        {
+            "list_id": "font_mode",
+            "option_id": 1,
+            "title": "Small",
+            "short_name": "small",
+            "language_id": 1
+        },
+        {
+            "list_id": "font_mode",
+            "option_id": 2,
+            "title": "Normal",
+            "short_name": "normal",
+            "language_id": 1
+        },
+        {
+            "list_id": "font_mode",
+            "option_id": 3,
+            "title": "Large",
+            "short_name": "large",
+            "language_id": 1
+        }
+    ],
+    "label_data": {
+        "welcome_to": "Welcome to",
+        "sign_out": "Sign Out",
+        "logout_msg": "Do you want to logout from your account?",
+        "cancel": "Cancel",
+        "logout": "Logout",
+        "select_language": "Select language",
+        "select_lang_desc": "Select your preferred content & audio language",
+        "feedback": "Feedback",
+        "or": "OR",
+        "near_by": "Near by",
+        "current_location": "Current Location",
+        "get_direction": "Get Direction",
+        "delete": "Delete",
+        "search": "Search",
+        "home": "Home",
+        "content_language": "Content Language",
+        "more": "More",
+        "less": "Less",
+        "short_audio": "Short Audio",
+        "long_audio": "Long Audio",
+        "invalid_barcode": "Invalid Barcode",
+        "invalid_serial_code": "Invalid Serial Code",
+        "no_data": "There is no data",
+        "guest_user": "Guest User",
+        "scanqr-code": "Scan to know Dham",
+        "dialpad": "All Temples",
+        "eula_content":""
+    },
+    "latitude": "25.310853",
+    "longitude": "83.010678",
+    "facebook_url": "https://www.facebook.com/ShriKashiVishwanathJi/",
+    "twitter_url": "https://twitter.com/ShriVishwanath",
+    "youtube_url": "https://www.youtube.com/@ShreeKashiVishwanathMandir",
+    "instagram_url": "https://www.instagram.com/shrikashivishwanath/",
+    "help-desk": "+91 6393 131 608"
+}
